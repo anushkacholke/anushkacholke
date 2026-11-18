@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Anushka Cholke</h1>
 
 <p align="center">
-  📊 Aspiring Data Scientist | 💻 Full-Stack Developer | 🚀 Passionate Learner | 🎓 Final Year Engineering Student  
+  Data Engineer 
 </p>
 
 ---
